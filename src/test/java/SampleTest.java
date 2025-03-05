@@ -5,6 +5,6 @@ public class SampleTest {
 
     @Test
     public void sampleTest(){
-        System.out.println("The test block executed successfully!!");
+        System.out.println("The test block executed successfully!");
     }
 }
